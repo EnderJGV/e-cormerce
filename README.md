@@ -1,4 +1,4 @@
-# ☕️ Projeto Coffee Model E-Commerce
+# ☕️ Projeto fresh and organic products for your
 
 **Realizado por:** Ender J. Guaina V.
 
@@ -20,7 +20,7 @@ Atualmente, o projeto está em sua versão inicial, com o foco no design e estru
 
 Abaixo, você encontra o link para visualizar a versão atual do projeto:
 
-🔗 **[Acesse o Projeto - Coffee Model E-Commerce](https://e-cormerce-theta.vercel.app/)**
+🔗 **[Acesse o Projeto](https://e-cormerce-theta.vercel.app/)**
 
 ---
 
